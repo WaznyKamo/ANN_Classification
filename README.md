@@ -5,7 +5,11 @@ The project was done on University Laboratories. It consist of two parts:
 
   - **classification of points using analytical method** - calculating weights and biases "by hand" and applying them as a small neural network.
   
+  ![analytical graph](https://raw.githubusercontent.com/WaznyKamo/ANN_Classification/main/analytical.png)
+  
   - **classification of points using Artifficial Neural Network learning** - by modelling a neural network and learning it using predefined points.
+  
+  ![learning graph](https://raw.githubusercontent.com/WaznyKamo/ANN_Classification/main/best_plot.png)
 
 Project contains the code, pictures of graphs obtained by analytical and learning method, and calculations used for analytical method
 
